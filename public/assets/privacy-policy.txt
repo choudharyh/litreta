@@ -1,0 +1,24 @@
+Privacy Policy
+Effective Date: 2018-05-15
+
+At Litreta, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you interact with our telecommunication, INAPP, and WAP services.
+
+1. Information We Collect
+We may collect the following types of information:
+
+Personal Information: Name, email, phone number, and other contact details when you sign up or inquire about our services.
+Technical Data: Device information, IP address, and usage data when you access our website or services.
+Transaction Data: Payment details for services that require billing.
+2. How We Use Your Information
+Your information is used to:
+
+Provide and enhance our INAPP and WAP services.
+Communicate updates, promotions, and service-related information.
+Improve security and prevent unauthorized access.
+3. Data Protection & Sharing
+We do not sell or share your personal data with third parties except for essential service providers.
+We implement industry-standard security measures to safeguard your data.
+4. Your Rights & Choices
+You can request access, correction, or deletion of your data at any time.
+You can opt out of marketing communications by following the unsubscribe instructions.
+For more details, contact us at tech.team@litreta.com.
