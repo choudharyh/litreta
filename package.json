@@ -5,8 +5,8 @@
     "description": "",
     "main": "index.mjs",
       "scripts": {
-      "start": "node index.mjs"
-    }, 
+  "start": "pm2-runtime start index.mjs --name litreta"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
