@@ -36,6 +36,6 @@ app.get('/', (req, res) => {
   res.render('index'); // or res.redirect('/index') if you want to redirect
 });
 
-app.listen(7074, () => {
-  console.log('Server running at http://localhost:7074/');
+app.listen(3000, () => {
+  console.log('Server running at http://localhost:3000/');
 });
